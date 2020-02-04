@@ -6,4 +6,9 @@ This is a simple
 ## Copyright
 Git.training @2014
 aasdasdsasasdasdsasdasdas
+<<<<<<< HEAD
 hotdogsas
+=======
+hotdog 
+tae ka
+>>>>>>> myfeature
