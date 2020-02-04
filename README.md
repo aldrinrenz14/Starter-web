@@ -3,4 +3,6 @@ This is a simple
 ## Introduction
 ## Purpose
 ## Deployement
-asdasdsasasdasd
+## Copyright
+Git.training @2014
+aasdasdsasasdasd
